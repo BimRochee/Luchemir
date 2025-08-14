@@ -1,0 +1,9 @@
+1;Paracetamol;10;7;554;Good for fever;
+2;Biogesic;20;15;530;Good for fever;
+3;Mefenamic;30;25;679;Good for body pain;
+4;Diatabs;90;80;491;Good for diarrhea;
+5;XYZ;50;30;835;Good for the body;
+6;abc;50;40;860;Take 2 times a day;
+7;EFG;90;20;953;Good for the heart;
+8;AAA;500;200;983;Energy booster;
+9;HIJ;100;10;1000;Good fo reducing fats;
